@@ -77,3 +77,10 @@ https://www.figma.com/proto/dVjpLrhov1QlxtwGsBRcER/Protfolio--Resume-Landing-Pag
 
 https://www.figma.com/file/kjJsW9UrZKR9MxwfORvVVH/Personal-Portfolio-Website-Template-%7C-Mobile-%26-Desktop-(Community)?type=design&node-id=340-942&mode=design&t=xzFXnZIxIRDdmTw7-0
 
+
+
+
+  {/*bg-white mx-4 shadow-lg flex flex-row-reverse px-8 py-28 gap-10 */ }
+
+  
+        {/*w-1/2 mx-14 p-2 border-b-10 border-r-10 border-gray-200 shadow-md*/}

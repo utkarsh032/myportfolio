@@ -1,6 +1,5 @@
 import './App.css';
 
-import Home from './pages/Home'
 import Skills from './pages/Skills'
 import Footer from './pages/Footer'
 import Contact from './pages/Contact'
@@ -9,6 +8,7 @@ import Projects from './pages/Projects'
 import Static from './pages/Static'
 import About from './pages/About'
 import Navbar from './components/Navbar';
+import Home from './pages/Home';
 
 
 
